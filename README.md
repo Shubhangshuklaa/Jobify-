@@ -92,4 +92,4 @@ VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 ## 👨‍💻 Author
 
 **Shubhang Shukla**  
-[GitHub](https://github.com/Shubhangshuklaa) | [LinkedIn]([https://www.linkedin.com/in/shubhang-shukla-151187279/])
+[GitHub](https://github.com/Shubhangshuklaa) | [LinkedIn](https://www.linkedin.com/in/shubhang-shukla-151187279/)
