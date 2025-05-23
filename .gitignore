@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+.vercel
+node_modules
+dist
